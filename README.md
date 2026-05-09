@@ -31,3 +31,11 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurlucaas/)
 
 </div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rthurlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rthurlucas&layout=compact&theme=tokyonight)
+
+</div>
