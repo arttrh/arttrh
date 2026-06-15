@@ -18,7 +18,7 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,rabbitmq,mysql,postgres,git,github,postman,kafka,JUnit5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,rabbitmq,mysql,postgres,git,github,postman,kafka,kubernetes&theme=dark" />
 
 <br/>
 
