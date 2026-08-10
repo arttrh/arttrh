@@ -1,14 +1,18 @@
-<div align="center">
+<table>
+<tr>
+<td width="180">
+<img src="WhatsApp Image 2026-08-10 at 01.19.15.jpeg" width="160" height="160" style="object-fit: cover; border-radius: 8px;" />
+</td>
+<td>
 
 # Arthur Lucas
-
 **`Back-end Developer`**
 
-</div>
-
----
-
 I'm a back-end developer focused on building robust and scalable systems with clean, well-structured code. Passionate about software architecture, I'm always seeking to improve my technical skills and deliver reliable solutions. Currently deepening my knowledge in Java ecosystems, distributed messaging systems, and containerization — with my eyes set on the industry.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,8 +28,6 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 ---
 
-<div align="center">
-
 ### My settings
 
 <br/>
@@ -35,8 +37,6 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 <br/>
 
 ---
-
-<div align="center">
 
 ### Let's connect
 
