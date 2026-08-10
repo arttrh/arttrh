@@ -30,7 +30,7 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,neovim&theme=dark" />
 
 <br/>
 
