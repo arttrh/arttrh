@@ -6,7 +6,7 @@
 <td>
 
 # Arthur Lucas
-**`Back-end Developer`**
+**`Software Engineer`**
 
 I'm a back-end developer focused on building robust and scalable systems with clean, well-structured code. Passionate about software architecture, I'm always seeking to improve my technical skills and deliver reliable solutions. Currently deepening my knowledge in Java ecosystems, distributed messaging systems, and containerization — with my eyes set on the industry.
 
