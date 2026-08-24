@@ -22,7 +22,7 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,typescript,nestjs,spring,maven,rabbitmq,kafka,mysql,postgres,mongodb,git,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,typescript,nestjs,spring,maven,rabbitmq,mysql,postgres,mongodb,git,postman,docker&theme=dark" />
 
 <br/>
 
